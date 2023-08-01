@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/userList"
+        android:icon="@drawable/common_google_signin_btn_icon_light"
+        android:title="유저리스트"
+        />
+
+    <item
+        android:id="@+id/chatRoomList"
+        android:icon="@drawable/common_google_signin_btn_icon_light"
+        android:title="채팅리스트"/>
+
+    <item
+        android:id="@+id/myPage"
+        android:icon="@drawable/common_google_signin_btn_icon_light"
+        android:title="설정"/>
+</menu>
